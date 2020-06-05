@@ -1,0 +1,132 @@
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.deps.json
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.runtimeconfig.json
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.runtimeconfig.dev.json
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.dll
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.pdb
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.Views.dll
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.Views.pdb
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csprojAssemblyReference.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csproj.CoreCompileInputs.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorAssemblyInfo.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorAssemblyInfo.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.AssemblyInfoInputs.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.AssemblyInfo.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.TagHelpers.input.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.TagHelpers.output.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorCoreGenerate.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Add.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorTargetAssemblyInfo.cache
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorTargetAssemblyInfo.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.Views.pdb
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.dll
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.pdb
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csproj.CopyComplete
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\Students.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\StudentPaymentAdd.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\StudentPaymentEdit.g.cshtml.cs
+E:\study\iubat\7th\Lab Visual Programming (csc 440)\project demo\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Class.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.deps.json
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.runtimeconfig.json
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.dll
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.pdb
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.Views.dll
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.Views.pdb
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\StudentPaymentAdd.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\StudentPaymentEdit.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\Students.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Add.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Class.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.Views.pdb
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.dll
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.pdb
+C:\Users\Administrator\Desktop\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.deps.json
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.dll
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.pdb
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.Views.dll
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\bin\Debug\netcoreapp2.1\Group03_PS.Views.pdb
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\StudentPaymentAdd.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\StudentPaymentEdit.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Payment\Students.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Add.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Class.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.Views.pdb
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.dll
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.pdb
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Group03_PS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\TeacherList.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\TeacherPayment\Teacher.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\TeacherPayment\TeacherPaymentAdd.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\TeacherPayment\TeacherPaymentEdit.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Add.g.cshtml.cs
+C:\Users\Administrator\Desktop\CSC465_ALL\Group03_PS\Group03_PS\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Edit.g.cshtml.cs

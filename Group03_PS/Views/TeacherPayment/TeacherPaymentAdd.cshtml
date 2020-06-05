@@ -1,0 +1,58 @@
+﻿@model Group03_PS.Models.TeacherPayment
+
+
+@{
+    ViewData["title"] = "New Payment";
+}
+
+
+
+
+<div class="modal-dialog">
+    <div class="modal-content">
+        <form asp-action="TeacherPaymentAdd" asp-controller="TeacherPayment" method="post" role="form">
+            <div class="modal-header">
+                <h4 class="modal-title">Add New Payment</h4>
+                @*<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>*@
+                <a asp-action="TeacherList" asp-controller="Teacher" class="close" data-dismiss="modal" aria-hidden="true">x</a>
+            </div>
+
+            <div class="modal-body">
+                <div class="form-group">
+                    <label asp-for="Date">Date</label>
+                    <input asp-for="Date" class="form-control" placeholder="Enter Date" name="Date" required="required">
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="TeacherId">Teacher Id</label>
+                    <input asp-for="TeacherId" class="form-control" name="Id" required="required">
+
+                </div>
+
+               
+                <div class="form-group">
+
+                    <label asp-for="MonthName">Month</label>
+                    <input type="text" asp-for="MonthName" class="form-control" placeholder="ex:January" name="MonthName" required="required">
+                </div>
+                <div class="form-group">
+
+                    <label asp-for="Salary">Salary</label>
+                    <input asp-for="Salary" class="form-control" placeholder="Enter Salary" name="Salary" required="required">
+                </div>
+              
+                <div class="form-group">
+
+                    <label asp-for="Fine">Fine</label>
+                    <input asp-for="Fine" class="form-control" placeholder="Enter Employee Salary" name="Fine" required="required">
+                </div>
+               
+
+            </div>
+
+            <div class="modal-footer">
+                <input type="submit" class="btn btn-success" value="Add">
+            </div>
+        </form>
+    </div>
+</div>
